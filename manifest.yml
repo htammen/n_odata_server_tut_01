@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 256M
+  disk_quota: 512M
+  instances: 1
+  domain: cfapps.us10.hana.ondemand.com
+  name: n-odata-server-tut-01
+  host: n-odata-server-tut-01
+  buildpack: nodejs_buildpack
