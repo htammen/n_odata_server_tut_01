@@ -7,3 +7,5 @@ applications:
   name: n-odata-server-tut-01
   host: n-odata-server-tut-01
   buildpack: nodejs_buildpack
+  services:
+    - mongodb-service

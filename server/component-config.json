@@ -3,7 +3,7 @@
     "mountPath": "/explorer"
   },
   "n-odata-server": {
-     "path": "/odata/*",
-     "odataversion": "2"
-   }
+    "path": "/odata/*",
+    "odataversion": "2"
+  }
 }

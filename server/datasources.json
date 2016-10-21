@@ -4,5 +4,15 @@
     "localStorage": "",
     "file": "storage/data.json",
     "connector": "memory"
+  },
+  "mongodb": {
+    "host": "10.11.241.3",
+    "port": 36031,
+    "url": "mongodb://fpa5n50e1dcwpdas:m1kht3kor3qdtahd@10.11.241.3:36031/6kjcovkykhddgtnv",
+    "database": "6kjcovkykhddgtnv",
+    "password": "m1kht3kor3qdtahd",
+    "name": "mongodb",
+    "user": "fpa5n50e1dcwpdas",
+    "connector": "mongodb"
   }
 }
